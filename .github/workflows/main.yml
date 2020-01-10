@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+<style>
+  body {
+ background-color:#77D9B8;
+  }
+  #great-words {
+    color: green;
+  }
+
+</style>
+
+    </head>
+    <body>
+
+        <h1>Travel to ....</h1>
+        <h2><strong>Portugal</strong></h2>
+               <img src="https://i.pinimg.com/originals/be/37/55/be37554cd9d961d3721d0a3fdfff6e70.jpg" width="375" alt="Beautiful sunny beach">
+               <img src= "https://www.zicasso.com/sites/default/files/headerimages/tours/portugal_lisbon_yellow_building_h2_2048px.jpg" width="475">
+
+     <P>You will have a great experience with portuguese mix of midieval    <br>  and modern culture. No matter who you are.</p>
+
+     <h3><strong>Top 3 Reasons To Visit Lisbon</strong></h3>
+     <ul>
+         <li><a href="#portugal-weather">Great weather</a></li>
+         <li><a href="#portugal-food">Great Food</a></li>
+         <li><a href="#portugal-people">great people</a></li>
+     </ul>
+
+    <h4  id="portugal-food"><strong><a href="https://www.eater.com/2017/6/28/15870974/portuguese-food-traditional-cuisine">"Really? What Food Exactly?!"</a></strong></h4>
+
+    <ol>
+        <li>Pastelo de Natas</li>
+        <li>Pastelo de Natas</li>
+        <li>hum...Sumol de ananas, plus<strong>Pastelo de Natas</strong></li>
+
+    </ol>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MargaretCafe_PasteisDeNata.JPG/1024px-MargaretCafe_PasteisDeNata.JPG" width="275">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Pasteis_de_Belem.jpg"width="200">
+     <img src="https://mobile.eatyourworld.com/images/staff_food_entries/pasteis-de-nata-belem-lisbon.jpg"width="350">
+
+         <h6><strong>Basically I am saying all you need to undestand Portugal is these 2 things:</strong></h6>
+           <img src="https://delicias-uk.com/9188-large_default/sumol-sparkling-orange-bottle-300ml.jpg" width"175">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MargaretCafe_PasteisDeNata.JPG/1024px-MargaretCafe_PasteisDeNata.JPG" width="475">
+
+
+     <h6 id="portugal-weather"><strong>"IS THE WEATHER THAT GREAT?!"</strong></h6>
+
+
+         <p>Answer:</p>
+
+         <p><strong> YES IT FUCKING IS!</strong></p>
+
+         <img src="https://thumbs.dreamstime.com/z/portugal-earth-map-red-planet-d-illustration-detailed-planet-surface-elements-image-furnished-nasa-86194541.jpg"
+         width="575">
+
+        <p> NASA says 'yes' So SHUT UP!</p>
+
+
+<h6 id="portugal-people"><strong>"Yeah, but I want to meet some cool people..."</strong></h6>
+
+<p> Oooh, that's a tricky one.<br> You gotta make sure you say the code word in the right way, the right volume and with the a smile:<br>
+<strong id="great-words">MALUUUUUUUCO!</strong>
+
+<p> This mysterious magical word, will unlock any cool person anywhere in the sovreign portuguese land.
+
+Unlock confirmed,when you hear "Come e que eeeeeee?!" back to you.<br>
+ Justs say:<br>
+" Brutaaaaaaaal! "<br>
+
+</p>
+  <img src="https://scontent.fluk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15025474_10208545734894997_3433622250570667113_o.jpg?_nc_cat=102&_nc_ohc=gyZJIzitWAQAQk9X0jodQIIx_PIc6_iHi4AiDWtWFlqiKBG2rGFUO-z9w&_nc_ht=scontent.fluk1-1.fna&_nc_tp=1&oh=2460ee4e56a7e7c4537ca6f2e60519b7&oe=5EA42827" width="330">
+<p>
+  And you have got yourself a portuguese cool friend. Just like that!
+</p>
+
+   </body>
+ </html>
